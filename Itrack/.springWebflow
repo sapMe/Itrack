@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webflow-project-description>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.7.2.201511260958-RELEASE]]></pluginVersion>
+	<configs>
+		<config>
+			<file>src/main/webapp/WEB-INF/spring/webmvc-config.xml</file>
+			<name><![CDATA[webmvc-config]]></name>
+			<beans-config><![CDATA[1:BeansModel|2:Itrack|3:java:com.saps.product.itrack.model.ItrackApplication]]></beans-config>
+		</config>
+	</configs>
+</webflow-project-description>
